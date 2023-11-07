@@ -15,9 +15,13 @@ Originally Written by María Carina Roldán, Pentaho Community Member, BI consul
 ![image](https://github.com/Anpuer/Sample-Sales-Data/assets/144112015/3e17ac90-cba7-4c56-bc09-be77bfd7d5d7)
 ## III. Insight
 1. In 2003, May(5th) had the least amount of sales, July(7th) had best monthly sales.
+   
    In 2004, April(4th) had the least amount of sales, May(5th) had best monthly sales.
+   
    In 2005, January(1st) had the least amount of sales, April(4th) had best monthly sales.
+   
    This shows that during the summer season sales are high and just before the summer season sales the least
+   
 2. The Euro Shopping Channel was the top customer buying the most products
 
 
