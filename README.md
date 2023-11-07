@@ -23,6 +23,10 @@ Originally Written by María Carina Roldán, Pentaho Community Member, BI consul
    This shows that during the summer season sales are high and just before the summer season sales the least
    
 2. The Euro Shopping Channel was the top customer buying the most products
+3. The month of November always has the highest sales rate.
+4. Based on sales the medium dealsize has the highest.
+5. USA is the best preforming country.
+6. City of Madrid had the best sales in the world followed by San Rafael and New York City.
 
 
 
