@@ -12,4 +12,6 @@ Originally Written by María Carina Roldán, Pentaho Community Member, BI consul
 5. Overall percentage of profit
 6. Month to Month change in Sales
 ## II. Visualization
-![Dashboard](https://github.com/Anpuer/Sample-Sales-Data/assets/144112015/1bf0fbdd-d8a2-42e9-a904-d581f9b0f6a0)
+![image](https://github.com/Anpuer/Sample-Sales-Data/assets/144112015/3e17ac90-cba7-4c56-bc09-be77bfd7d5d7)
+## III. Insight
+1. 
